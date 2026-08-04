@@ -7,6 +7,13 @@
     "allowOffline": false
   },
     {
+    "id": "3a85fb1156819970",
+    "username": "lifetime",
+    "password": "123",
+    "expiresAt": "2029-08-26",
+    "allowOffline": true
+  },
+    {
     "id": "1b1472b08622881e",
     "username": "Omi",
     "password": "123",
