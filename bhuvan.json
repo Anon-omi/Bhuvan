@@ -10,8 +10,8 @@
     "id": "3a85fb1156819970",
     "username": "lifetime",
     "password": "123",
-    "expiresAt": "2029-08-26",
-    "allowOffline": true
+    "expiresAt": "2026-08-06",
+    "allowOffline": false
   },
     {
     "id": "1b1472b08622881e",
